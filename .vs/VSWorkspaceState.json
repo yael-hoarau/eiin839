@@ -1,14 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\TD1",
     "\\TD1\\HttpListener",
     "\\TD2",
-    "\\TD2\\HttpListener\\BasicServerHttpListener",
-    "\\TP1",
-    "\\TP1\\HttpListener\\BasicServerHttpListener\\bin\\Release",
-    "\\TP1\\HttpListener\\BasicServerHttpListener\\obj"
+    "\\TD2\\BasicWebServer",
+    "\\TD2\\ExternalExeCall\\bin",
+    "\\TD2\\HttpListener\\BasicServerHttpListener"
   ],
-  "SelectedNode": "\\TD2\\HttpListener",
+  "SelectedNode": "\\TD2\\BasicWebServer\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
